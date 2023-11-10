@@ -1,0 +1,25 @@
+.low-splash-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 45rem;
+    gap: 1rem;
+}
+#women2-image {
+    position: absolute;
+    height: 80vh;
+    width: 48vw;
+    object-fit: cover;
+    z-index: -1;
+    left: 0;
+    margin-left: 1rem;
+}
+
+#men2-image {
+    position: absolute;
+    height: 80vh;
+    width: 48vw;
+    object-fit: cover;
+    z-index: -1;
+    right: 0;
+}

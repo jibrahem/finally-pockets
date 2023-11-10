@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+
+}
+
+nav{
+    margin: 2rem;
+}
+
+nav a{
+    color: #00B5B8;
+    font-family: 'Koulen', sans-serif;
+    font-size: 30px;
+}
+
+.navigation-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right-nav{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}

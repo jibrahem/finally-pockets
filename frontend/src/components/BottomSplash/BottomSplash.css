@@ -1,0 +1,50 @@
+.bottom-splash-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 28rem;
+}
+
+#bottom-splash-image {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    z-index: -1;
+    left: 0
+}
+
+.bottom-text-wrapper {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    gap: 22rem;
+    position: relative;
+    margin-top: 22rem;
+}
+
+.top-left-text {
+    font-family: 'Koulen', sans-serif;
+    font-size: 4vw;
+    margin: 0;
+    line-height: 3rem;
+}
+
+.bottom-left-text {
+    font-size: 1vw;
+    font-family: 'Source Sans 3', sans-serif;
+    margin-top: 1rem;
+}
+
+.top-right-text {
+    font-family: 'Koulen', sans-serif;
+    font-size: 4vw;
+    margin: 0;
+    line-height: 3rem;
+}
+
+.bottom-right-text {
+    font-size: 1vw;
+    font-family: 'Source Sans 3', sans-serif;
+    margin-top: 1rem;
+}
