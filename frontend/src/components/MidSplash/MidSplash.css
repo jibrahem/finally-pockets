@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin-bottom: 10rem;
+    margin-bottom: 13rem;
 }
 
 #women-image {
@@ -23,27 +23,24 @@
     right: 0;
 }
 
-.mid-text-wrapper {
+/* .mid-text-wrapper {
     display: flex;
     flex-direction: row;
     color: white;
     gap: 20rem;
     position: relative;
     margin-top: 27rem;
-}
+} */
 
-#women-text-wrapper {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    color: white;
-}
 
 #women-text-wrapper {
     transition: all .15s;
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+    color: white;
+    margin-top: 25rem;
+    margin-right: 15rem;
 }
 
 #women-text-wrapper:hover {
@@ -67,17 +64,13 @@
 }
 
 #men-text-wrapper {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    color: white;
-}
-
-#men-text-wrapper {
     transition: all .15s;
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
+    color: white;
+    margin-top: 25rem;
+    margin-right: 15rem;
 }
 
 #men-text-wrapper:hover {

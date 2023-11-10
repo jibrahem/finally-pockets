@@ -10,7 +10,7 @@ nav{
 nav a{
     color: #00B5B8;
     font-family: 'Koulen', sans-serif;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .navigation-bar {
@@ -22,5 +22,5 @@ nav a{
 .right-nav{
     display: flex;
     flex-direction: row;
-    gap: 3rem;
+    gap: 5rem;
 }

@@ -22,4 +22,4 @@ const BottomSplash = () => {
         </>
     )
 }
-export default BottomSplash
+export default BottomSplash;
