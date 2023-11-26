@@ -9,10 +9,10 @@ const Womens3 = () => {
                 <div id="women-page-text-wrapper">
                     <div id="women-body-1">TPU</div>
                     <div id="women-body-2">Inner treatment using silicone rubber to counteract sliding on wearer’s body.  </div>
-                    <div id="women-body-2"></div>
-                    <div id="women-body-2"></div>
-                    <div id="women-body-3">Back Pockets</div>
-                    <div id="women-body-4">Padding</div>
+                    <div id="women-body-1">Back Pockets</div>
+                    <div id="women-body-2">Multiple overlapping back pockets; no more rummaging through one pocket endlessly.</div>
+                    <div id="women-body-1">Padding</div>
+                    <div id="women-body-2">High density microfiber material for shock absorption; breathable and moisture - wicking; minimum restriction for running and swimming</div>
                 </div>
             </div>
         </>
