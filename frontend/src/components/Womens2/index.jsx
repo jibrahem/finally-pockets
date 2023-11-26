@@ -6,8 +6,8 @@ const Womens2 = () => {
     return (
         <>
             <div className='mid-women-wrapper'>
-                <img id="women2-image" src={women} alt="women2" />
-                <img id="men2-image" src={women2} alt="women4" />
+                <img id="women2-img" src={women} alt="women2" />
+                <img id="men2-img" src={women2} alt="women4" />
             </div>
         </>
     )
