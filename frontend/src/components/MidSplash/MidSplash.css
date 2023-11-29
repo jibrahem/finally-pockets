@@ -52,7 +52,7 @@
 }
 
 #women-header {
-    font-family: 'Koulen', sans-serif;
+    font-family: 'Cuprum', sans-serif;
     font-size: 6vw;
     margin: 0;
     line-height: 3rem;
@@ -60,7 +60,7 @@
 
 #women-body {
     font-size: 3vw;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }
 
 #men-text-wrapper {
@@ -82,7 +82,7 @@
 }
 
 #men-header {
-    font-family: 'Koulen', sans-serif;
+    font-family: 'Cuprum', sans-serif;
     font-size: 6vw;
     margin: 0;
     line-height: 3rem;
@@ -90,5 +90,5 @@
 
 #men-body {
     font-size: 3vw;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }

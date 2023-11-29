@@ -24,7 +24,7 @@
 }
 
 .top-left-text {
-    font-family: 'Koulen', sans-serif;
+    font-family: 'Cuprum', sans-serif;
     font-size: 4vw;
     margin: 0;
     line-height: 3rem;
@@ -32,12 +32,12 @@
 
 .bottom-left-text {
     font-size: 1vw;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Nunito', sans-serif;
     margin-top: 1rem;
 }
 
 .top-right-text {
-    font-family: 'Koulen', sans-serif;
+    font-family: 'Cuprum', sans-serif;
     font-size: 4vw;
     margin: 0;
     line-height: 3rem;
@@ -45,6 +45,6 @@
 
 .bottom-right-text {
     font-size: 1vw;
-    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Nunito', sans-serif;
     margin-top: 1rem;
 }

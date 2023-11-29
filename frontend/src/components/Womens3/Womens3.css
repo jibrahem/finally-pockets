@@ -1,3 +1,32 @@
-.women-low-wrapper{
-    margin-bottom: 45rem;
+.women-low-wrapper {
+    margin-bottom: 20rem;
+}
+
+#women-1 {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 4.5vw;
+}
+
+#women-2 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 2vw;
+}
+#women-2-top {
+    font-family: 'Nunito', sans-serif;
+    font-size: 2vw;
+    margin-top: 1rem;
+}
+#women-2-bot {
+    font-family: 'Nunito', sans-serif;
+    font-size: 2vw;
+    margin-bottom: 1rem;
+}
+
+#women-page2-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    position: relative;
+    text-align: right;
+    margin-right: 5rem;
 }

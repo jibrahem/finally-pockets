@@ -1,0 +1,14 @@
+#about-2-wrapper {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 55rem;
+}
+
+#about-men-image {
+    position: absolute;
+    right: 0;
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    z-index: -1;
+}

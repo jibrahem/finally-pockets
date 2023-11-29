@@ -1,0 +1,24 @@
+#about-3-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 30rem;
+    gap: 10rem;
+}
+
+.about-3-text {
+    display: flex;
+    flex-direction: column;
+    width: 32vw
+}
+
+#about-3-header {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 6vw;
+}
+
+#about-3-body {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.4vw;
+    margin-top: 2rem;
+}

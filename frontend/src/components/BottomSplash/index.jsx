@@ -15,6 +15,17 @@ const BottomSplash = () => {
                         <div className='right-text'>
                             <div className='top-right-text'>Join Team Pockets!</div>
                             <div className='bottom-right-text'>For more updates and surprise events</div>
+                            <form>
+                                <input
+                                    name="email_address"
+                                    required
+                                    type="email"
+                                    placeholder='your-email-here@email.com'
+                                    // onChange={handleEmailChange}
+                                    // value={email}
+                                />
+                                <button>ADD ME!</button>
+                            </form>
                         </div>
                     </div>
                 </div>
