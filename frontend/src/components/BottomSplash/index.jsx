@@ -2,6 +2,7 @@ import './BottomSplash.css'
 import bottomsplash from '../../assets/bottomsplash.jpg'
 
 const BottomSplash = () => {
+    
     return (
         <>
             <>
