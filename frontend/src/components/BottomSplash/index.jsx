@@ -13,7 +13,7 @@ const BottomSplash = () => {
                             <div className='bottom-left-text'>UCSD Basement and Blackstone LaunchPad</div>
                         </div>
                         <div className='right-text'>
-                            <div className='top-right-text'>Join Team Pockets!</div>
+                            <div className='top-right-text'>JOIN TEAM POCKETS!</div>
                             <div className='bottom-right-text'>For more updates and surprise events</div>
                             <form>
                                 <input
