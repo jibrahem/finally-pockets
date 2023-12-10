@@ -1,4 +1,4 @@
 # finally-pockets
-### start frontend
+### to start frontend
 ### cd into frontend
 ### npm run dev
